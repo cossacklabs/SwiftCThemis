@@ -1,0 +1,5 @@
+module SwiftCThemis [system] {
+  header "/usr/include/themis/themis.h"
+  link "themis"
+  export *
+}
